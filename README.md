@@ -1,6 +1,6 @@
 # Tietokantasovelluksen esittelysivu
 
-Huom. Kehitystä jatkettu projektissa [disc-golf-stats]("https://github.com/virtalas/disc-golf-stats").
+Huom. Kehitystä jatkettu projektissa [disc-golf-stats](https://github.com/virtalas/disc-golf-stats).
 
 Yleisiä linkkejä:
 
