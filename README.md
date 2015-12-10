@@ -1,5 +1,7 @@
 # Tietokantasovelluksen esittelysivu
 
+Huom. Kehitystä jatkettu projektissa [disc-golf-stats]("https://github.com/virtalas/disc-golf-stats").
+
 Yleisiä linkkejä:
 
 * [Linkki sovellukseeni](http://lassvirt.users.cs.helsinki.fi/tsoha)
